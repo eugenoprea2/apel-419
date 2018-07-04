@@ -1,0 +1,28 @@
+{
+  "data": {
+    "customers": [
+      {
+        "phones": [
+          "0722869516"
+        ],
+        "email": "oprea_eugen20@yahoo.com",
+        "name": "Eugen Oprea",
+        "eos_id": 323306,
+        "segmentation": "Gold",
+        "orders": [
+          {
+            "date": "2018-02-06T22:20:30Z",
+            "delivery_mode": "Showroom Titan",
+            "payment_mode": "Numerar",
+            "id": 41920922,
+            "contact_person": "Eugen Oprea",
+            "products": [
+              "Televizor LG diagonala 100cm",
+              "Discount conform promotie: Promo A+"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
